@@ -1,0 +1,98 @@
+h5 {
+  text-align: left;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: rgb(16, 124, 16);
+}
+
+.container {
+  text-align: left;
+  border: 0;
+  padding: 0;
+}
+
+.containerlogo {
+  width: 100%;
+
+}
+
+.form-signin {
+  width: 100%;
+  height: auto;
+  max-width: 475px;
+  padding: 20px;
+  margin: auto;
+  background-color: white;
+
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border: 0px solid transparent;
+  border-bottom: 1px solid #4a85f3;
+}
+
+.card-body {
+  background-color: rgb(231, 229, 229);
+  text-align: justify;
+  font-size: 14px;
+  border: 0;
+}
+
+.card-body a {
+  text-decoration: none;
+}
+
+.card-body a:hover {
+  text-decoration: underline;
+}
+
+.icono01 {
+  text-align: left;
+}
+
+.icono01 a {
+  text-decoration: none;
+}
+
+.icono01 a:hover {
+  text-decoration: underline;
+}
+
+.btn01 {
+  width: 100%;
+  height: auto;
+  max-width: 475px;
+  padding: 20px;
+  margin: auto;
+  border: 0;
+  text-align: start;
+
+}
+
+.btn01:hover {
+  background-color: rgb(231, 229, 229);
+}
+
+.btn01 a {
+  text-decoration: none;
+}
